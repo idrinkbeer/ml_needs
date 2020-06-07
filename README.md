@@ -2,11 +2,10 @@
 mrlupo & duck
 
 
-# redemrp_needs
+# ml_needs
 
-Add redemrp_needs to your [redemrp] folder
 
-Add ensure redemrp_needs to your server.cfg
+Add ensure ml_needs to your server.cfg
 
 Add water and bread  as a usable item in inventory config
 
