@@ -51,8 +51,9 @@ has eating anim
 resets stats after player is revived/healed just trigger this in redemrp_respawn = TriggerEvent("fsn_needs:resetall")
 
 # req 
-redemrp_roleplay
-redemrp_inventory V2
+- redemrp_roleplay - https://github.com/RedEM-RP/redem_roleplay
+
+ - redemrp_inventory V2 - https://github.com/RedEM-RP/redemrp_inventory
 
 # info
 
